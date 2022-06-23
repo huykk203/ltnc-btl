@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1653393083 source:d:\minesweepersdl2-main\code\mine2\buttons.cpp
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function.h"
+	"Timer.h"
+
+1653394893 d:\minesweepersdl2-main\code\mine2\variables.h
+	"Texture.h"
+	"constant.h"
+	"Buttons.h"
+
+1653317851 d:\minesweepersdl2-main\code\mine2\texture.h
+	<iostream>
+	<time.h>
+	<SDL.h>
+	<SDL_image.h>
+	<SDL_ttf.h>
+	<SDL_mixer.h>
+	<string>
+	<vector>
+
+1653392982 d:\minesweepersdl2-main\code\mine2\constant.h
+	<iostream>
+	"Timer.h"
+
+1653392423 d:\minesweepersdl2-main\code\mine2\buttons.h
+	<SDL.h>
+
+1653359072 d:\minesweepersdl2-main\code\mine2\function.h
+	"Timer.h"
+	<SDL.h>
+
+1653394465 d:\minesweepersdl2-main\code\mine2\timer.h
+	<SDL.h>
+
+1653394936 source:d:\minesweepersdl2-main\code\mine2\function.cpp
+	"Texture.h"
+	"Variables.h"
+	"constant.h"
+	"Buttons.h"
+	"function.h"
+	"Timer.h"
+	<bits/stdc++.h>
+
+1653390543 source:d:\minesweepersdl2-main\code\mine2\main.cpp
+	"Buttons.h"
+	"Variables.h"
+	"constant.h"
+	"function.h"
+
+1653327280 source:d:\minesweepersdl2-main\code\mine2\texture.cpp
+	"Texture.h"
+	"Variables.h"
+
+1653394475 source:d:\minesweepersdl2-main\code\mine2\timer.cpp
+	"Timer.h"
+
+1653394893 source:d:\minesweepersdl2-main\code\mine2\variables.cpp
+	"Variables.h"
+	<iostream>
+
